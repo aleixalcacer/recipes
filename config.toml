@@ -1,0 +1,7 @@
+baseURL = 'https://aleixalcacer.github.io/recipes'
+languageCode = 'es'
+title = 'Recetas'
+theme = 'hyde'
+
+[params]
+  description = ' '

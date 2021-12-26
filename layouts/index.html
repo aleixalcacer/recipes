@@ -1,0 +1,17 @@
+{{ define "main" -}}
+<div class="posts">
+    <h1> {{ .Title }}</h1>
+    {{ range .Site.RegularPages.GroupBy "Section" }}
+
+    <h2> {{ .Key }} </h2>
+
+    <ul class="posts">
+        {{ range .Pages }}
+        <li>
+            <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</div>
+{{- end }}
