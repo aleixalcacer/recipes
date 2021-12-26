@@ -1,4 +1,4 @@
-baseURL = 'https://aleixalcacer.github.io/recipes'
+baseURL = 'https://www.aleixalcacer.com/recipes/'
 languageCode = 'es'
 title = 'Recetas'
 theme = 'hyde'
