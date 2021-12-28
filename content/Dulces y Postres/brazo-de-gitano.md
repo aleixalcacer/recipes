@@ -12,7 +12,7 @@ Para la masa:
 Para el relleno:
 - Nutella
 
-## Paso a paso
+## Elaboración
 
 1. Precalentamos el horno a 180 ºC utilizando la cocción con ventilador.
 2. Separamos las yemas y las claras de los huevos.

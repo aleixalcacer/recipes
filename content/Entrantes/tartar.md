@@ -16,7 +16,7 @@ title: "Tartar de salmón"
 - Cilantro (al gusto)
 
 
-## Paso a paso
+## Elaboración
 
 1. Cortamos el salmón en cubos de 1 cm (si se hace cuando está congelado es más fácil).
 2. Cortamos la cebolleta, las alcaparras y los pepinillos en trozos muy pequeñitos.

@@ -14,7 +14,7 @@ Para la cobertura:
 - 1 bol con agua
 - 1 bol con azúcar
 
-## Paso a paso
+## Elaboración
 
 1. Precalentamos el horno a 190 ºC utilizando el modo de calor superior e inferior. 
 2. En un cazo ponemos a calentar el agua y el aceite de oliva. Cuando rompa a hervir, retiramos el cazo del fuego y añadimos la harina tamizada. 
